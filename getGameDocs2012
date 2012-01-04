@@ -1,0 +1,89 @@
+#!/bin/bash
+#D.Giandomenico, FIRST Team #846 12/3/2011
+#D.Giandomenico, FIRST Team #846 1/24/2010
+#NB: This script requires wget -- a free download.
+#written to run on a Macintosh
+
+#change dir to where this script is located. Script may be launched from the Mac Finder.
+dir=`dirname "$0"`
+cd "$dir" || exit 1
+
+FIRST='http://www.usfirst.org'
+FRC=$FIRST/roboticsprograms/frc
+
+if [ $# == 0 ]; then
+  $0 FRC12_GameDocs/manual $FRC/competition-manual-and-related-documents
+  # aspx='http://www.usfirst.org/roboticsprograms/frc/content.aspx?id'
+  # $0 FRC11_GameDocs "$aspx"=452
+  # $0 FRC11_GameDocs/91_Kit_OfParts "$aspx"=18530
+  # $0 FRC11_GameDocs/UpDates "$aspx"=450
+
+#  $0 FRC11_GameDocs/05_FieldDrawings "$aspx"=16097
+#  $0 FRC11_GameDocs/08_AdditionalTechResources "$aspx"=16337
+#  $0 FRC11_GameDocs/08_FRC_ControlSystem "$aspx"=10934
+
+  echo Done!
+  exit;
+fi;
+
+if [ $# != 2 ]
+  then echo "usage: $0 local_directory webpage"
+  exit
+fi;
+
+
+# Now we have two arguments;
+directory="$1"
+remotepage="$2"
+echo GetDocs into "$directory" from "$remotepage"
+mkdir -pv "$directory" || exit
+echo "<html><a href=\"$remotepage\">$remotepage</a>" > "$directory".html
+cd $directory || exit;
+pwd
+
+
+
+tmp=webPage.html
+rm -f $tmp
+wget -O $tmp "$remotepage"
+
+cat $tmp | sed '
+#put each anchor on a new line
+s/<a/\
+&/g' > tmp$$a.txt
+
+cat tmp$$a.txt | sed  -n -e '
+#delete lines not starting with an anchor tag
+ /^<a/ !d
+#get just the href, deleting greedily
+ s/.*href="//
+ s/".*//
+ p
+' > tmp$$b.txt
+
+cat tmp$$b.txt | sed -n -e '
+#delete pages we dont want
+ /=/ d
+ /htm/ d
+ /aspx/ d
+ /http/ d
+ /javascript/ d
+ /jr.fll/ d
+ /#/ d
+# only print the files with ".xxx" extensions.
+ /\./ p
+' > fileList.txt
+
+#exit 0
+rm tmp$$a.txt
+rm tmp$$b.txt
+rm webpage.html
+
+
+while read line
+do
+	webpage="$FIRST/$line"
+	echo "$webpage"
+	wget -nc "$webpage"
+done < fileList.txt
+#end
