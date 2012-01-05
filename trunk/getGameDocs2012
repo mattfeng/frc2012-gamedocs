@@ -43,11 +43,10 @@ pwd
 
 
 
-tmp=webPage.html
-rm -f $tmp
-wget -O $tmp "$remotepage"
+rm -f webpage.html
+wget -O webpage.html "$remotepage"
 
-cat $tmp | sed '
+cat webpage.html | sed '
 #put each anchor on a new line
 s/<a/\
 &/g' > tmp$$a.txt
