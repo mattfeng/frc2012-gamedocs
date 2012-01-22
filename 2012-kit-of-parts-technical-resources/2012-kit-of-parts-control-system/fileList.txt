@@ -1,0 +1,11 @@
+/sites/default/files/uploadedFiles/Robotics_Programs/FRC/Game_and_Season__Info/2012_Assets/Analog%20Breakout.pdf
+/sites/default/files/uploadedFiles/Robotics_Programs/FRC/Game_and_Season__Info/2012_Assets/DB37%20Ribbon%20Cable%20Assembly%20-%20Rework%20Instructions.pdf
+/sites/default/files/uploadedFiles/Robotics_Programs/FRC/Game_and_Season__Info/2012_Assets/Digital%20Sidecar.pdf
+/sites/default/files/uploadedFiles/Robotics_Programs/FRC/Game_and_Season__Info/2012_Assets/Getting%20Started%20with%20the%202012%20FRC%20Control%20System_2.pdf
+/sites/default/files/uploadedFiles/Robotics_Programs/FRC/Game_and_Season__Info/2012_Assets/JaguarFirmwareUpdateInstructions02.pdf
+/sites/default/files/uploadedFiles/Robotics_Programs/FRC/Game_and_Season__Info/2012_Assets/Power%20Distribution%20Board.pdf
+/sites/default/files/uploadedFiles/Robotics_Programs/FRC/Game_and_Season__Info/2012_Assets/Robot%20Data%20Connectivity%20Diagram%20%28Ethernet%20-%20CAN%29.pdf
+/sites/default/files/uploadedFiles/Robotics_Programs/FRC/Game_and_Season__Info/2012_Assets/Robot%20Data%20Connectivity%20Diagram%20%28PWM%29.pdf
+/sites/default/files/uploadedFiles/Robotics_Programs/FRC/Game_and_Season__Info/2012_Assets/Robot%20Data%20Connectivity%20Diagram%20%28Serial-CAN%29.pdf
+/sites/default/files/uploadedFiles/Robotics_Programs/FRC/Game_and_Season__Info/2012_Assets/Solenoid%20Breakout.pdf
+/sites/default/files/uploadedFiles/Robotics_Programs/FRC/Game_and_Season__Info/2012_Assets/Workbench3%203.pdf
