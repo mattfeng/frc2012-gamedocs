@@ -1,0 +1,4 @@
+/sites/default/files/uploadedFiles/Robotics_Programs/FRC/Game_and_Season__Info/2012_Assets/Accelerometer-Gyro.pdf
+/uploadedFiles/Community/FRC/Game_and_Season__Info/2010_Assets/AS5030-AB-2%200%20Adapterboard%20User%20Manual%20Rev1.pdf
+/uploadedFiles/Robotics_Programs/FRC/Game_and_Season__Info/2011_Assets/Kit_of_Parts/AS5304%20User%20Manual.pdf
+/uploadedFiles/Robotics_Programs/FRC/Game_and_Season__Info/2011_Assets/Kit_of_Parts/Honeywell%20Microswitch.pdf
