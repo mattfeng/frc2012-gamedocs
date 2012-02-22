@@ -1,5 +1,5 @@
 /sites/default/files/2012_FMS_TwitterFeed_Rev0.pdf
-/sites/default/files/2012_Inspection_BOM_Template.xlsx
+/sites/default/files/2012_Inspection_BOM_Template_Rev_A.xlsx
 /sites/default/files/uploadedFiles/Robotics_Programs/FRC/Game_and_Season__Info/2012_Assets/01_%20Introduction.pdf
 /sites/default/files/uploadedFiles/Robotics_Programs/FRC/Game_and_Season__Info/2012_Assets/02_Communication.pdf
 /sites/default/files/uploadedFiles/Robotics_Programs/FRC/Game_and_Season__Info/2012_Assets/06_Awards.pdf
