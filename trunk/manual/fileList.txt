@@ -3,7 +3,7 @@
 /sites/default/files/uploadedFiles/Robotics_Programs/FRC/Game_and_Season__Info/2012_Assets/01_%20Introduction.pdf
 /sites/default/files/uploadedFiles/Robotics_Programs/FRC/Game_and_Season__Info/2012_Assets/02_Communication.pdf
 /sites/default/files/uploadedFiles/Robotics_Programs/FRC/Game_and_Season__Info/2012_Assets/06_Awards.pdf
-/sites/default/files/uploadedFiles/Robotics_Programs/FRC/Game_and_Season__Info/2012_Assets/2012%20FRC%20Inspection%20Checklist%20Rev%20B%202-14-12.pdf
+/sites/default/files/uploadedFiles/Robotics_Programs/FRC/Game_and_Season__Info/2012_Assets/2012%20FRC%20Inspection%20Checklist%20Rev%20C%202-27-12%20r1.pdf
 /sites/default/files/uploadedFiles/Robotics_Programs/FRC/Game_and_Season__Info/2012_Assets/Non-compliance_Robot_Lock-Up_Form.pdf
 /sites/default/files/uploadedFiles/Robotics_Programs/FRC/Game_and_Season__Info/2012_Assets/RQBS.zip
 /sites/default/files/uploadedFiles/Robotics_Programs/FRC/Game_and_Season__Info/2012_Assets/Robot_Lock-Up_Form.pdf
