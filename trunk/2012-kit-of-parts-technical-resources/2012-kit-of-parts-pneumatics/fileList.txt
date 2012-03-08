@@ -1,3 +1,0 @@
-/sites/default/files/uploadedFiles/Robotics_Programs/FRC/Game_and_Season__Info/2012_Assets/2012%20FIRST%20Robotics%20Competition%20Pneumatics%20Manual.pdf
-/sites/default/files/uploadedFiles/Robotics_Programs/FRC/Game_and_Season__Info/2012_Assets/SMC.pdf
-/uploadedFiles/Robotics_Programs/FRC/Game_and_Season__Info/2011_Assets/Kit_of_Parts/Festo%20566475.pdf
