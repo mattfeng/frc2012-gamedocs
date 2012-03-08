@@ -1,7 +1,0 @@
-/sites/default/files/MotorInfo4.2.pdf
-/sites/default/files/uploadedFiles/Robotics_Programs/FRC/Game_and_Season__Info/2012_Assets/Power%20Distribution%20Board.pdf
-/sites/default/files/uploadedFiles/Robotics_Programs/FRC/Game_and_Season__Info/2012_Assets/Robot%20Power%20Distribution%20Diagram%20%2812V%20%26%2024V%20Solenoid%29.pdf
-/sites/default/files/uploadedFiles/Robotics_Programs/FRC/Game_and_Season__Info/2012_Assets/Robot%20Power%20Distribution%20Diagram%20%2812V%20Solenoid%29.pdf
-/sites/default/files/uploadedFiles/Robotics_Programs/FRC/Game_and_Season__Info/2012_Assets/Robot%20Power%20Distribution%20Diagram%20%2824V%20Solenoid%29.pdf
-/uploadedFiles/Robotics_Programs/FRC/Game_and_Season__Info/2011_Assets/Kit_of_Parts/Burndy%20KPA4CUNPL.pdf
-/uploadedFiles/Robotics_Programs/FRC/Game_and_Season__Info/2011_Assets/Kit_of_Parts/Burndy%20YAZV6CTC14FX%20Catalog%20Page.pdf
