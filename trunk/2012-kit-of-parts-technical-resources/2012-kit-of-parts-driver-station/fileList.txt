@@ -1,3 +1,5 @@
+/sites/default/files/Driver_Station_Charts_and_Logs.pdf
+/sites/default/files/Driver_Station_Charts_and_Logs.pdf
 /sites/default/files/uploadedFiles/Robotics_Programs/FRC/Game_and_Season__Info/2012_Assets/ClassmateE09ImagingSupplement02.pdf
 /sites/default/files/uploadedFiles/Robotics_Programs/FRC/Game_and_Season__Info/2012_Assets/Creating_a_USB_drive_for_2012_Classmate_Image_Restoration_Rev0.pdf
 /sites/default/files/uploadedFiles/Robotics_Programs/FRC/Game_and_Season__Info/2012_Assets/Getting%20Started%20with%20Microsoft%20Kinect%20for%20FRC.pdf
